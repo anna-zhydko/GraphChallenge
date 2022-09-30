@@ -11,6 +11,7 @@ class PriceCounter:
     cabinet - cabinet
     pots - the list of all pots
     stop - Flag to stop recursion in graph
+
     """
 
     nodes_length = {}
