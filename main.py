@@ -5,6 +5,7 @@ class PriceCounter:
     """
     Class calculates the prices from a, b cards
     by given network in *.dot
+
     nodes_length - key (nodes) value (length). Example: {'AF': 50}
     card_a_cost, card_b_cost -  future price of two cards
     cabinet - cabinet
